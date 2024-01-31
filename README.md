@@ -1,6 +1,6 @@
 # Mamba SSM
 ## About
-A well-built wheel is used to support the Nvidia 10 series graphics card. It was built under the ```PyTorch 2.1``` and ```CUDA 11.8``` environment. For detailed construction details, please refer to the [link](https://github.com/state-spaces/mamba/issues/40#issuecomment-1849095898).
+A well-built wheel is used to support the Nvidia 10 series graphics card. It was built under the ```Python 3.10```,```PyTorch 2.1``` and ```CUDA 11.8``` environment. For detailed construction details, please refer to the [link](https://github.com/state-spaces/mamba/issues/40#issuecomment-1849095898).
 
 ## Installation
 
