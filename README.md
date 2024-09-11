@@ -12,3 +12,5 @@ pip install causal_conv1d-1.1.1-cp310-cp310-linux_x86_64.whl
 pip install mamba_ssm-1.1.2-cp310-cp310-linux_x86_64.whl
 ```
 
+## Build
+For detailed build process, please refer to build_step.pdf.
